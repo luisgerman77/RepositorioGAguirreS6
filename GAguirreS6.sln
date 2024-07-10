@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAguirreS6", "GAguirreS6.csproj", "{0D0C2E95-2D3A-4003-BF87-EBD5B75F81C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0C2E95-2D3A-4003-BF87-EBD5B75F81C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0C2E95-2D3A-4003-BF87-EBD5B75F81C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0C2E95-2D3A-4003-BF87-EBD5B75F81C7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0D0C2E95-2D3A-4003-BF87-EBD5B75F81C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0C2E95-2D3A-4003-BF87-EBD5B75F81C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0C2E95-2D3A-4003-BF87-EBD5B75F81C7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA4C116-8D4D-4576-9CBA-3F1B8B3C99DC}
+	EndGlobalSection
+EndGlobal
